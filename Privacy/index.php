@@ -1,1 +1,1 @@
-<?php include_once(“privacy.html”); ?>
+<?php include_once(“home.html”); ?>
